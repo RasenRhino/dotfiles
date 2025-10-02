@@ -2,8 +2,7 @@
     "workbench.colorTheme": "Gruvbox Dark Soft",
     "vim.handleKeys": {
     
-    
-        
+
         "<C-d>": false,
         "<C-s>": false,
         "<C-z>": false,
@@ -15,7 +14,6 @@
         "<C-b>": false,
         "<C-[>": false,
         "<C-]>": false,
-
-
-    },
+        "<C-y>": false,
+    }
 }
